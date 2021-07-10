@@ -1,0 +1,13 @@
+build
+
+bin
+.vscode
+
+shared-memory/client
+shared-memory/server
+
+socket/client
+socket/server
+
+**/*.o
+**/*.gch
